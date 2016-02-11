@@ -3,7 +3,7 @@ var CONFIG = {
     TESTING: 0,
     LANGUAGE: 'en',
     APP_NAME: 'FixMyStreet',
-    FMS_URL: 'http://10.191.0.16:3000/',//'http://datauy.netuy.net/',
+    FMS_URL: 'http://distrito.75.102.34.148.xip.io/',//'http://datauy.netuy.net/',
     NAMESPACE: 'fixmystreet',
     FILES_DIR: 'fixmystreet_photos',
     ACCURACY: 750,
